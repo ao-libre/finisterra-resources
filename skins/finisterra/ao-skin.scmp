@@ -3,7 +3,7 @@ atlasData: {
 	atlasCurrent: true
 	drawables: [
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Back.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Back.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -22,7 +22,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -41,7 +41,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close_Small.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close_Small.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -60,7 +60,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Create.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Create.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -79,7 +79,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Delete.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Delete.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -98,7 +98,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Menu.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Menu.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -117,7 +117,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button-background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -136,7 +136,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button-background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -160,7 +160,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button-background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -179,7 +179,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Back.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Back.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -198,7 +198,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -217,7 +217,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close_Small.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Close_Small.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -236,7 +236,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Create.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Create.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -255,7 +255,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Delete.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Delete.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -274,7 +274,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Menu.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Controls/Buttons/Square/Icons/Button_S1_Icon_Menu.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -293,7 +293,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -312,7 +312,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle_Hover.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle_Hover.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -331,7 +331,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle_Hover.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Advanced_Horizontal_Handle_Hover.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -350,7 +350,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Box_Background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Box_Background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -369,7 +369,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Horizontal_Handle.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Horizontal_Handle.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -388,7 +388,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Horizontal_Fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Horizontal_Fill.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -407,7 +407,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Slider_Horizontal_Background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Slider_Horizontal_Background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -426,7 +426,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/CheckBox_on.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/CheckBox_on.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -445,7 +445,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Checkbox_on_hover.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Checkbox_on_hover.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -464,7 +464,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Checkbox_off.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Checkbox_off.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -483,7 +483,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Checkbox_off_hover.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Checkbox_off_hover.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -502,7 +502,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Cursors/Cursor_Normal.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Cursors/Cursor_Normal.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -521,7 +521,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Action Bar/Experience Bar/XPBar_Fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Action Bar/Experience Bar/XPBar_Fill.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -540,7 +540,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/UnitFrame_Main_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/UnitFrame_Main_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -559,7 +559,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/UnitFrame_Main_Elite.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/UnitFrame_Main_Elite.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -578,7 +578,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -597,7 +597,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Mask.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Mask.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -616,7 +616,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Overlay.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Overlay.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -635,7 +635,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_TR.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_TR.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -654,7 +654,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_TR_Fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_TR_Fill.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -673,7 +673,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Bars/UnitFrame_Main_Bar_Primary_Fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Bars/UnitFrame_Main_Bar_Primary_Fill.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -692,7 +692,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Bars/UnitFrame_Main_Bar_Secondary_Fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Bars/UnitFrame_Main_Bar_Secondary_Fill.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -711,7 +711,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Combo Points/UnitFrame_Main_CP_Fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Combo Points/UnitFrame_Main_CP_Fill.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -730,7 +730,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Combo Points/UnitFrame_Main_CP_Frame.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Combo Points/UnitFrame_Main_CP_Frame.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -749,7 +749,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Level/UnitFrame_Main_Level_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Level/UnitFrame_Main_Level_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -768,7 +768,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Level/UnitFrame_Main_Level_Skull.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Level/UnitFrame_Main_Level_Skull.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -787,7 +787,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/UnitFrame_Main_Role_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/UnitFrame_Main_Role_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -806,7 +806,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_DPS.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_DPS.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -825,7 +825,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_HPS.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_HPS.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -844,7 +844,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_Tank.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Role/Icons/UnitFrame_Main_Role_Tank.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -863,7 +863,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/LoadingBar_Background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/LoadingBar_Background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -882,7 +882,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/LoadingBar_Fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/LoadingBar_Fill.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -901,7 +901,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/LoadingBar_Fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/LoadingBar_Fill.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -920,7 +920,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Character_Reputation_Bar_Fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Character_Reputation_Bar_Fill.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -939,7 +939,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Character_Reputation_Bar_Background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Character_Reputation_Bar_Background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -958,7 +958,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Arrows_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Arrows_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -977,7 +977,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Book_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Book_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -996,7 +996,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Deathkiss_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Deathkiss_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1015,7 +1015,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Fireball_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Fireball_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1034,7 +1034,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Leafs_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Leafs_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1053,7 +1053,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Pyroblast_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Pyroblast_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1072,7 +1072,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Shield_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Shield_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1091,7 +1091,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Sunshiny_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Sunshiny_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1110,7 +1110,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Sword_128.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Spell & Item Icons/Icon_Sword_128.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1129,7 +1129,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/empty.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/empty.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1148,7 +1148,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/fill.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1167,7 +1167,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/TextInputFocus.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/TextInputFocus.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1186,7 +1186,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/speech-bubble-flipped.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/speech-bubble-flipped.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1205,7 +1205,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Inventory-Icon.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Inventory-Icon.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1224,7 +1224,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/spells.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/spells.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1243,7 +1243,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/fill.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1267,7 +1267,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/text-cursor.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/text-cursor.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1286,7 +1286,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/Button_S1_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/Button_S1_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1305,7 +1305,7 @@ atlasData: {
 			hidden: true
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Action Bar/Slots/ActionBar_MainSlot_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Action Bar/Slots/ActionBar_MainSlot_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1324,7 +1324,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Glow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Glow.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1343,7 +1343,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Overlay.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Overlay.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1362,7 +1362,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_QualityBorder.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_QualityBorder.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1381,7 +1381,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/Windows/Inventory/Inventory_Slot_Background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1400,7 +1400,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/separator.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/separator.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1419,7 +1419,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Overlay.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/Assets/Textures/HUD/Unit Frames/Main/Avatar/UnitFrame_Main_Avatar_Overlay.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1438,7 +1438,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bot_arrow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bot_arrow.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1457,7 +1457,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/top_arrow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/top_arrow.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1476,7 +1476,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/line.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/line.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1495,7 +1495,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/slot.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/slot.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1514,7 +1514,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/slot_overlay.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/slot_overlay.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1533,7 +1533,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/slot_selected.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/slot_selected.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1552,7 +1552,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/submit_button.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/submit_button.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1571,7 +1571,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/message_input.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/message_input.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1590,7 +1590,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/user-stats-frame.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/user-stats-frame.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1609,7 +1609,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/glow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/glow.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1628,7 +1628,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/glow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/glow.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1647,7 +1647,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1666,7 +1666,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-fill.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1685,7 +1685,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-fill.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1704,7 +1704,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-separator.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-separator.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1723,7 +1723,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-overlay.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-overlay.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1742,7 +1742,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-fill.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-fill.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1761,7 +1761,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/shadow.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/shadow.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1780,7 +1780,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/ingame_bar.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/ingame_bar.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1799,7 +1799,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/ingame_bar_fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/ingame_bar_fill.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1818,7 +1818,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/ingame_bar_fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/ingame_bar_fill.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1837,7 +1837,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/ingame_bar_fill.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/ingame_bar_fill.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1856,7 +1856,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/decorated-button.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/decorated-button.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1875,7 +1875,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/lanzar-button.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/lanzar-button.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1894,7 +1894,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/lanzar-button-down.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/lanzar-button-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1913,7 +1913,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/lanzar-button-hover.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/lanzar-button-hover.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1932,7 +1932,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1951,7 +1951,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button-down.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1970,7 +1970,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/button-hover.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/button-hover.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1989,7 +1989,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/window.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/window.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2008,7 +2008,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/main-background.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/main-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2027,7 +2027,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/main-window.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/main-window.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2046,7 +2046,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/TextInput.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/TextInput.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2065,7 +2065,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/hp-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/hp-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2084,7 +2084,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/hp-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/hp-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2103,7 +2103,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/energy-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/energy-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2122,7 +2122,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/energy-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/energy-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2141,7 +2141,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/empty-bar.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/empty-bar.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2160,7 +2160,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/mana-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/mana-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2179,7 +2179,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/mana-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/mana-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2198,7 +2198,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-icon-background.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-icon-background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2217,7 +2217,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/energy.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/energy.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2236,7 +2236,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/heart.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/heart.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2255,7 +2255,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/magic.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/magic.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2274,7 +2274,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/heart.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/heart.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2293,7 +2293,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/heart.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/heart.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2312,7 +2312,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/magic.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/magic.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2331,7 +2331,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/magic.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/magic.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2350,7 +2350,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/energy.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/energy.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2369,7 +2369,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/energy.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/energy.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2388,7 +2388,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/exp-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/exp-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2407,7 +2407,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/exp-bar-filled.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/exp-bar-filled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2426,7 +2426,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-icon-background-decorated.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-icon-background-decorated.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2445,7 +2445,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/bar-icon-background-decorated-over.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/bar-icon-background-decorated-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2464,7 +2464,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/body.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/body.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2483,7 +2483,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/helmet.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/helmet.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2502,7 +2502,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/shield.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/shield.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2521,7 +2521,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/weapon.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/weapon.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2540,7 +2540,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/helmet.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/helmet.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2559,7 +2559,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/shield.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/shield.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2578,7 +2578,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/weapon.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/weapon.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2597,7 +2597,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/body.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/body.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -2616,7 +2616,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin_data/stat-empty-bar.9.png
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin_data/stat-empty-bar.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2915,7 +2915,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: big
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/KhmerUIb.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/KhmerUIb.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 16
@@ -2944,7 +2944,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: button
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/Pieces of Eight.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/Pieces of Eight.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 24
@@ -2973,7 +2973,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: flipped
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/TAHOMAB0.TTF
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/TAHOMAB0.TTF
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 12
@@ -3002,7 +3002,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: main
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/Pieces of Eight.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/Pieces of Eight.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 28
@@ -3031,7 +3031,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: normal
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/KhmerUIb.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/KhmerUIb.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 16
@@ -3060,7 +3060,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: numbers
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/KhmerUIb.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/KhmerUIb.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 12
@@ -3089,7 +3089,7 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FreeTypeFontData
 			name: user
-			file: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/fonts/Pieces of Eight.ttf
+			file: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/fonts/Pieces of Eight.ttf
 			previewTTF: IBMPlexSerif-Medium
 			useCustomSerializer: true
 			size: 22
@@ -8877,7 +8877,7 @@ preferences: {
 	}
 	last-import-export-path: {
 		class: java.lang.String
-		value: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/assets/data/skins/finisterra/ao-skin.json
+		value: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/assets/data/skins/finisterra/ao-skin.json
 	}
 	resources-relative: {
 		class: java.lang.Boolean
@@ -8888,7 +8888,7 @@ preferences: {
 		value: 30
 	}
 }
-saveFile: C:/Users/Jopi/Desktop/finisterra/skins/finisterra/ao-skin.scmp
+saveFile: C:/Users/Jopi/Desktop/finisterra-dev/finisterra-resources/skins/finisterra/ao-skin.scmp
 version: 43
 sceneComposer: null
 }
